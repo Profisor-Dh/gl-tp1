@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/core.lookup/core.lookup.iml" filepath="$PROJECT_DIR$/core.lookup/core.lookup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/launcher/launcher.iml" filepath="$PROJECT_DIR$/launcher/launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/log/log.iml" filepath="$PROJECT_DIR$/log/log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent.iml" filepath="$PROJECT_DIR$/parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/util.impl.gui/util.impl.gui.iml" filepath="$PROJECT_DIR$/util.impl.gui/util.impl.gui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/util.impl.timer/util.impl.timer.iml" filepath="$PROJECT_DIR$/util.impl.timer/util.impl.timer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/util.service.gui/util.service.gui.iml" filepath="$PROJECT_DIR$/util.service.gui/util.service.gui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/util.service.timer/util.service.timer.iml" filepath="$PROJECT_DIR$/util.service.timer/util.service.timer.iml" />
+    </modules>
+  </component>
+</project>

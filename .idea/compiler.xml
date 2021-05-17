@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="log" />
+        <module name="util.impl.gui" />
+        <module name="util.service.timer" />
+        <module name="util.service.gui" />
+        <module name="core.lookup" />
+        <module name="util.impl.timer" />
+        <module name="launcher" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="core.lookup" target="1.7" />
+      <module name="launcher" target="1.7" />
+      <module name="log" target="8" />
+      <module name="LookupChangeListener" target="8" />
+      <module name="parent" target="1.7" />
+      <module name="util.impl.gui" target="1.7" />
+      <module name="util.impl.timer" target="1.7" />
+      <module name="util.service.gui" target="1.7" />
+      <module name="util.service.timer" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
